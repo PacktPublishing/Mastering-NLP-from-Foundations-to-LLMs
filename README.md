@@ -1,6 +1,4 @@
 # Mastering NLP from Foundations to LLMs
-
-# Retrieve content from a YouTube video and summarize
 Authors:  
  - [Lior Gazit](https://www.linkedin.com/in/liorgazit).  
  - [Meysam Ghaffari](https://www.linkedin.com/in/meysam-ghaffari-ph-d-a2553088/).  
