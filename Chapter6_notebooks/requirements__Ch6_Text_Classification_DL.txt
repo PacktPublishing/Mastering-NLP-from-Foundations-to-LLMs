@@ -1,0 +1,18 @@
+accelerate==0.29.2
+autocorrect==2.6.1
+datasets==2.18.0
+evaluate==0.4.1
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+matplotlib-venn==0.11.10
+nltk==3.8.1
+num2words==0.5.13
+regex==2023.12.25
+scikit-image==0.19.3
+scikit-learn==1.2.2
+scipy==1.11.4
+spacy==3.7.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+torch @ https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=1adf430f01ff649c848ac021785e18007b0714fdde68e4e65bd0c640bf3fb8e1
+transformers==4.28.0
