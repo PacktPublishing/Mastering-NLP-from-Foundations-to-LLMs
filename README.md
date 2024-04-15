@@ -33,11 +33,11 @@ This book is for deep learning and machine learning researchers, NLP practitione
 1. Navigating the NLP Landscape: A comprehensive introduction
 1. Mastering Linear Algebra, Probability, and Statistics for Machine Learning and NLP
 1. Unleashing Machine Learning Potentials in NLP
-1. Streamlining Text Preprocessing Techniques for Optimal NLP Performance
-1. Empowering Text Classification: Leveraging Traditional Machine Learning Techniques
-1. Text Classification Reimagined: Delving Deep into Deep Learning Language Models
+1. Streamlining Text Preprocessing Techniques for Optimal NLP Performance ([Notebooks for chapter 4](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs/tree/main/Chapter4_notebooks))  
+1. Empowering Text Classification: Leveraging Traditional Machine Learning Techniques ([Notebooks for chapter 5](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs/tree/main/Chapter5_notebooks))  
+1. Text Classification Reimagined: Delving Deep into Deep Learning Language Models ([Notebooks for chapter 6](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs/tree/main/Chapter6_notebooks))  
 1. Demystifying Large Language Models: Theory, Design, and Langchain Implementation
-1. Accessing the Power of Large Language Models: Advanced Setup and Integration with RAG
-1. Exploring the Frontiers: Advanced Applications and Innovations Driven by LLMs
+1. Accessing the Power of Large Language Models: Advanced Setup and Integration with RAG ([Notebooks for chapter 8](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs/tree/main/Chapter8_notebooks))  
+1. Exploring the Frontiers: Advanced Applications and Innovations Driven by LLMs ([Notebooks for chapter 9](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs/tree/main/Chapter9_notebooks))  
 1. Riding the Wave: Analyzing Past, Present, and Future Trends Shaped by LLMs and AI
 1. Exclusive Industry Insights: Perspectives and Predictions from World Class Experts
