@@ -1,0 +1,4 @@
+embedchain==0.1.100
+openai==1.17.0
+pytube==15.0.0
+youtube-transcript-api==0.6.2
