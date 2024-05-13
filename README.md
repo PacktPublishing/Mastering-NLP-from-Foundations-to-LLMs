@@ -5,7 +5,7 @@ This is the code repository for [Mastering NLP from Foundations to LLMs](https:/
 
 **Apply advanced rule-based techniques to LLMs and solve real-world business problems using Python**
 
-Authors:  
+## About Authors:  
  - [Lior Gazit](https://www.linkedin.com/in/liorgazit) is a highly skilled ML professional with a proven track record of success in building and leading teams that use ML to drive business growth. He is an expert in NLP and has successfully developed innovative ML pipelines and products. He holds a master’s degree and has published in peer-reviewed journals and conferences. As a senior director of a ML group in the financial sector and a principal ML advisor at an emerging start-up, Lior is a respected leader in the industry, with a wealth of knowledge and experience to share. With much passion and inspiration, Lior is dedicated to using ML to drive positive change and growth in his organizations.
   
  - [Meysam Ghaffari](https://www.linkedin.com/in/meysam-ghaffari-ph-d-a2553088/)  is a senior data scientist with a strong background in NLP and deep learning. He currently works at MSKCC, where he specializes in developing and improving ML and NLP models for healthcare problems. He has over nine years of experience in ML and over four years of experience in NLP and deep learning. He received his Ph.D. in computer science from Florida State University, his MS in computer science – artificial intelligence from the Isfahan University of Technology, and his BS in computer science from Iran University of Science and Technology. He also worked as a post-doctoral research associate at the University of Wisconsin-Madison before joining MSKCC.
