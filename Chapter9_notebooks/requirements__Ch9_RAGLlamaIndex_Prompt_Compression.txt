@@ -1,6 +1,6 @@
 accelerate==0.29.2
 datasets==2.18.0
-llama-index==0.10.7
+llama-index==0.10.13
 llama-index-agent-openai==0.1.7
 llama-index-core==0.10.28
 llama-index-embeddings-openai==0.1.7
