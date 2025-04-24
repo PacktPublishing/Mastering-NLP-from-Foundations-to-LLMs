@@ -189,7 +189,7 @@ gspread-dataframe==4.0.0
 gym==0.25.2
 gym-notices==0.0.8
 gymnasium==1.1.1
-h11==0.14.0
+h11==0.16.0
 h2==4.2.0
 h5netcdf==1.6.1
 h5py==3.13.0
