@@ -1,4 +1,7 @@
 # Mastering NLP from Foundations to LLMs
+```
+All codes are refactored/updated per April 2025.
+``` 
 
 <a href="https://www.packtpub.com/product/mastering-nlp-from-foundations-to-llms/9781804619186"><img src="https://m.media-amazon.com/images/I/61ChVewbtSL._SL1233_.jpg" alt="Mastering NLP from Foundations to LLMs" height="256px" align="right"></a>
 This is the code repository for [Mastering NLP from Foundations to LLMs](https://www.packtpub.com/product/mastering-nlp-from-foundations-to-llms/9781804619186), published by Packt.
