@@ -227,7 +227,7 @@ ipyfilechooser==0.6.0
 ipykernel==6.17.1
 ipyleaflet==0.19.2
 ipyparallel==8.8.0
-ipython==7.34.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
 ipytree==0.2.2
