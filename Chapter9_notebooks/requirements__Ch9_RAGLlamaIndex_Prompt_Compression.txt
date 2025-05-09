@@ -266,7 +266,7 @@ keras-nlp==0.18.1
 keyring==25.6.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.8
-langchain==0.3.23
+langchain==0.2.5
 langchain-community==0.3.21
 langchain-core==0.3.52
 langchain-text-splitters==0.3.8
