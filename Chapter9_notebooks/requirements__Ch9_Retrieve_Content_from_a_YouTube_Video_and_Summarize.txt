@@ -253,7 +253,7 @@ spacy-loggers==1.0.5
 SQLAlchemy==2.0.34
 srsly==2.5.1
 stack-data==0.6.3
-starlette==0.38.4
+starlette==0.47.2
 striprtf==0.0.26
 sympy==1.13.1
 tenacity==8.5.0
