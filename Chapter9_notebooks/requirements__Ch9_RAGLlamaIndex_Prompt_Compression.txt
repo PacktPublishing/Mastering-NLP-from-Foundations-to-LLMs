@@ -121,7 +121,7 @@ fastrlock==0.8.3
 filelock==3.18.0
 filetype==1.2.0
 firebase-admin==6.7.0
-Flask==3.1.0
+Flask==3.1.1
 flatbuffers==25.2.10
 flax==0.10.5
 folium==0.19.5
