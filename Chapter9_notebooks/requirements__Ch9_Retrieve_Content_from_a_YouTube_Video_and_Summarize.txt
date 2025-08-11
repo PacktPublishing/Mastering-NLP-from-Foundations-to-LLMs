@@ -119,7 +119,7 @@ jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 kiwisolver==1.4.8
 kubernetes==30.1.0
-langchain==0.1.20
+langchain==0.2.5
 langchain-community==0.0.38
 langchain-core==0.1.53
 langchain-openai==0.0.5
