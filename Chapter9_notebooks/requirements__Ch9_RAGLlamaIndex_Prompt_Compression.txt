@@ -466,7 +466,7 @@ Pyomo==6.8.2
 PyOpenGL==3.1.9
 pyOpenSSL==24.2.1
 pyparsing==3.2.3
-pypdf==5.4.0
+pypdf==6.0.0
 pyperclip==1.9.0
 pyproj==3.7.1
 pyshp==2.3.1

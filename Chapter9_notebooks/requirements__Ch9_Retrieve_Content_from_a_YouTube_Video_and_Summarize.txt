@@ -210,7 +210,7 @@ pydantic-settings==2.8.1
 pydantic_core==2.23.2
 Pygments==2.18.0
 pyparsing==3.2.3
-pypdf==3.17.4
+pypdf==6.0.0
 PyPika==0.48.9
 pyproject_hooks==1.1.0
 pyreadline3==3.4.1
