@@ -265,7 +265,7 @@ tifffile==2025.3.30
 tiktoken==0.5.2
 tinycss2==1.4.0
 tokenizers==0.21.1
-torch==2.6.0
+torch==2.7.1
 tornado==6.4.1
 tqdm==4.67.1
 traitlets==5.14.3
