@@ -210,7 +210,7 @@ pydantic-settings==2.8.1
 pydantic_core==2.23.2
 Pygments==2.18.0
 pyparsing==3.2.3
-pypdf==3.17.4
+pypdf==6.0.0
 PyPika==0.48.9
 pyproject_hooks==1.1.0
 pyreadline3==3.4.1
@@ -291,6 +291,6 @@ wordcloud==1.9.4
 wrapt==1.16.0
 xxhash==3.5.0
 yarl==1.20.0
-youtube-transcript-api==0.6.2
+youtube-transcript-api==1.2.2
 zipp==3.20.1
 zstandard==0.23.0
