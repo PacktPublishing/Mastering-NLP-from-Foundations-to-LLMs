@@ -291,6 +291,6 @@ wordcloud==1.9.4
 wrapt==1.16.0
 xxhash==3.5.0
 yarl==1.20.0
-youtube-transcript-api==0.6.2
+youtube-transcript-api==1.2.2
 zipp==3.20.1
 zstandard==0.23.0
