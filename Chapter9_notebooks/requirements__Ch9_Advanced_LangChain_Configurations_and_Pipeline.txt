@@ -3,6 +3,6 @@ gpt4all==1.0.12
 langchain==0.1.16
 langchain-community
 langchain-core==0.3.74
-langchain-text-splitters==0.0.1
+langchain-text-splitters==0.3.9
 openai==0.28.1
 sentence-transformers==2.6.1
