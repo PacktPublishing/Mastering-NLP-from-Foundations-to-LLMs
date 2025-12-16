@@ -58,7 +58,7 @@ executing==2.1.0
 faiss-cpu==1.10.0
 fastapi==0.114.0
 fastjsonschema==2.21.1
-filelock==3.16.0
+filelock==3.20.1
 flatbuffers==24.3.25
 fonttools==4.56.0
 fqdn==1.5.1
