@@ -91,7 +91,7 @@ Deprecated==1.2.18
 diffusers==0.32.2
 dill==0.3.8
 dirtyjson==1.0.8
-distributed==2024.12.1
+distributed==2026.1.1
 distributed-ucxx-cu12==0.42.0
 distro==1.9.0
 dlib==19.24.6
