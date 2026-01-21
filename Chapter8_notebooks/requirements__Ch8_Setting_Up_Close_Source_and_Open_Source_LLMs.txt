@@ -3,4 +3,4 @@ regex==2023.12.25
 scikit-image==0.19.3
 scikit-learn==1.2.2
 scipy==1.11.4
-transformers==4.39.3
+transformers==4.53.0
