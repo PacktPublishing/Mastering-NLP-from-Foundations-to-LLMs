@@ -1,6 +1,6 @@
 faiss-cpu==1.8.0
 gpt4all==1.0.12
-langchain==0.1.16
+langchain==0.2.5
 langchain-community
 langchain-core==0.3.74
 langchain-text-splitters==0.0.1
