@@ -344,7 +344,7 @@ narwhals==1.35.0
 natsort==8.4.0
 nbclassic==1.2.0
 nbclient==0.10.2
-nbconvert==7.16.6
+nbconvert==7.17.0
 nbformat==5.10.4
 ndindex==1.9.2
 nest-asyncio==1.6.0
