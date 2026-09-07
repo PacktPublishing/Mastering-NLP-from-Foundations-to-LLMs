@@ -545,7 +545,7 @@ sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==2.0.40
 sqlglot==25.20.2
-sqlparse==0.5.3
+sqlparse==0.5.4
 srsly==2.5.1
 stanio==0.5.1
 statsmodels==0.14.4
